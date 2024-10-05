@@ -43,6 +43,10 @@ Offers filters such as price range, brand, and features to narrow down product s
 Cross-Category Search: 
 Allows users to search across multiple product categories, making it easy to find related items in one query.
 
+
+## Presentation Link
+https://www.canva.com/design/DAGSpYEXPg4/vuKnlsEecKY421obilerZw/view?utm_content=DAGSpYEXPg4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Developers
 ### Vikash A R
 ### Harsayazheni P Y
