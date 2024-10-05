@@ -36,6 +36,9 @@ We have developed BuyWise, an AI-powered chatbot designed to address the problem
 ### https://github.com/VIKASHAR/Gadgets-chatbot.git
 ### https://github.com/VIKASHAR/Home-appliance-chatbot.git
 
+## Buywise Integrated Website Link
+https://harsayazheni.github.io/Buywise-AI-Chatbot/
+
 ## Features
 Product Information: 
 Provides detailed insights into product features, specifications, and pricing across various categories.
@@ -59,10 +62,6 @@ Allows users to search across multiple product categories, making it easy to fin
 
 ## Presentation Link
 https://www.canva.com/design/DAGSpYEXPg4/vuKnlsEecKY421obilerZw/view?utm_content=DAGSpYEXPg4&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
-
-## Buywise Website Link
-https://harsayazheni.github.io/Buywise-AI-Chatbot/
 
 ## Developers
 ### Vikash A R
