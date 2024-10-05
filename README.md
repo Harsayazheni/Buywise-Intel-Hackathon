@@ -11,17 +11,17 @@ Consumers today face challenges in quickly accessing accurate information about 
 We have developed BuyWise, an AI-powered chatbot designed to address the problem of overwhelming product research. BuyWise enables users to easily inquire about product features, pricing, availability, and comparisons in real-time, providing personalized recommendations and simplifying the decision-making process.
 
 ## Tech Stacks Used
-HTML
-CSS
-JS
-PYTHON
-DATA ANALYSIS
-ARTIFICIAL INTELLIGENCE
-GENERATIVE - AI
-STREAMLIT
-GEMINI AI
-INTEL ONE API
-INTEL TOOLKIT
+### HTML
+### CSS
+### JS
+### PYTHON
+### DATA ANALYSIS
+### ARTIFICIAL INTELLIGENCE
+### GENERATIVE - AI
+### STREAMLIT
+### GEMINI AI
+### INTEL ONE API
+### INTEL TOOLKIT
 
 ## Features
 Product Information: 
