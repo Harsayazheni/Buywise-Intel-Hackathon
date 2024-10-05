@@ -44,7 +44,7 @@ Cross-Category Search:
 Allows users to search across multiple product categories, making it easy to find related items in one query.
 
 ## Developers
-Vikash A R
-Harsayazheni P Y
-Priya R
-Thiyaga Sri Charumathy
+### Vikash A R
+### Harsayazheni P Y
+### Priya R
+### Thiyaga Sri Charumathy
