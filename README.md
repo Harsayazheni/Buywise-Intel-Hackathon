@@ -27,6 +27,9 @@ We have developed BuyWise, an AI-powered chatbot designed to address the problem
 ## Data Cleaning using Intel's Jupyter Hub
 ![image](https://github.com/user-attachments/assets/a57bbc46-6b9a-4349-8739-947640df7ae2)
 
+## Frontend Deployment using Live Server of VS Code
+![Screenshot 2024-10-05 080318](https://github.com/user-attachments/assets/c5d05895-0abb-46a8-adbf-9b04dbaf58b6)
+
 ## Features
 Product Information: 
 Provides detailed insights into product features, specifications, and pricing across various categories.
