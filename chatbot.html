@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with BuyWise</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img src="logo.png" alt="BuyWise Logo" class="logo">
+            <h1>Welcome to BuyWise</h1>
+            <img class="intel-logo" src="./intel.png">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="https://app-zex2frw8rlxtwb4vzmdfuz.streamlit.app/">Chatbot</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="chatbox">
+            <h2>Ask BuyWise Anything!</h2>
+            <div id="chat-window">
+                <div id="output"></div>
+            </div>
+            <input id="user-input" type="text" placeholder="Type your message here..." />
+            <button onclick="sendMessage()">Send</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 BuyWise. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
