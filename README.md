@@ -23,6 +23,10 @@ We have developed BuyWise, an AI-powered chatbot designed to address the problem
 ### INTEL ONE API
 ### INTEL TOOLKIT
 
+
+## Data Cleaning using Intel's Jupyter Hub
+![image](https://github.com/user-attachments/assets/a57bbc46-6b9a-4349-8739-947640df7ae2)
+
 ## Features
 Product Information: 
 Provides detailed insights into product features, specifications, and pricing across various categories.
