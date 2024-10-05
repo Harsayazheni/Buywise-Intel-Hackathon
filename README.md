@@ -31,10 +31,10 @@ We have developed BuyWise, an AI-powered chatbot designed to address the problem
 ![Screenshot 2024-10-05 080318](https://github.com/user-attachments/assets/c5d05895-0abb-46a8-adbf-9b04dbaf58b6)
 
 ## Backend Codes using Intelex
-https://github.com/VIKASHAR/processor-chatbot.git
-https://github.com/VIKASHAR/skincare-chatbot.git
-https://github.com/VIKASHAR/Gadgets-chatbot.git
-https://github.com/VIKASHAR/Home-appliance-chatbot.git
+### https://github.com/VIKASHAR/processor-chatbot.git
+### https://github.com/VIKASHAR/skincare-chatbot.git
+### https://github.com/VIKASHAR/Gadgets-chatbot.git
+### https://github.com/VIKASHAR/Home-appliance-chatbot.git
 
 ## Features
 Product Information: 
